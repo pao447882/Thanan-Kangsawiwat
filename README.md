@@ -30,25 +30,25 @@ Repo: [https://github.com/thanankangsawiwat/ai-copilot-sme-decisions](https://gi
 sales-forecast-dashboard  
 Stack: Linear Regression, Prophet, Logistic Regression, Flask, HTML, Dashboard  
 Impact: Sales Forecasting + Trend/Seasonality for Marketing and Stock management  
-Repo: https://github.com/thanankangsawiwat/flask-sales-forecast-dashboard  
+Repo: [https://github.com/thanankangsawiwat/flask-sales-forecast-dashboard](https://github.com/pao447882/sales-forecast-dashboard)   
 
 3. Restaurant Database (MySQL + PHP Ops System)  
 sme-restaurant-mysql-php-system  
 Stack: MySQL, PHP, Role-based Web App  
 Impact: Sales/stock data required → Fast and accurate reporting with branch expansion  
-Repo: https://github.com/thanankangsawiwat/sme-restaurant-mysql-php-system  
+Repo: [https://github.com/thanankangsawiwat/sme-restaurant-mysql-php-system ](https://github.com/pao447882/sme-restaurant-mysql-php-system-)   
 
 4. Hotel Room Segmentation (LLM-Powered Features + K-Means)  
 hotel-room-segmentation-llm-kmeans  
 Stack: Selenium, GPT-3.5 for structuring, Embeddings, K-Means  
 Impact: Found 6 Secment → for pricing/positioning  
-Repo: https://github.com/thanankangsawiwat/hotel-room-segmentation-llm-kmeans  
+Repo: [https://github.com/thanankangsawiwat/hotel-room-segmentation-llm-kmeans](https://github.com/pao447882/hotel-room-segmentation-llm-kmeans)   
 
 5. Customer Behavior: EDA → Actions  
 customer-behavior-eda-to-actions  
 Stack: Excel(Advanced), Power BI, EDA  
 Impact: Convert EDA into 3–5 actionable business proposals (Retention/Up-sell/Promotion)with Dashboard/Notebook visuals.  
-Repo: https://github.com/thanankangsawiwat/customer-behavior-eda-to-actions  
+Repo: [https://github.com/thanankangsawiwat/customer-behavior-eda-to-actions](https://github.com/pao447882/customer-behavior-eda-to-actions)  
 
 Contact  
 Email: thanankangsawiwat@gmail.com  
