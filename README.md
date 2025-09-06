@@ -24,7 +24,7 @@ Featured Projects (Pinned)
 ai-copilot-sme-decisions  
 Stack: Web Scrapping, Python, Prompt Engineering, EDA, Market Basket Analysis  
 Impact: Decrease Analytic time by ~90% → Ready to Action  
-Repo: https://github.com/thanankangsawiwat/ai-copilot-sme-decisions  
+Repo: [https://github.com/thanankangsawiwat/ai-copilot-sme-decisions](https://github.com/pao447882/ai-copilot-sme-decisions)  
 
 2. Sales Forecasting Dashboard (Linear Regression, Prophet, Logistic Regression)  
 sales-forecast-dashboard  
